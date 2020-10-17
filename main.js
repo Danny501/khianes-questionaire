@@ -1,7 +1,7 @@
 const discord = require('discord.js');
 const bot = new discord.Client();
 
-const token = "NzY3MTIzNDYxMTg4MzU0MDcw.X4tVZQ.3pdEV17Z_fV6cmMC_qos5bFWGRo";
+const token = "CENSORED";
 
 const prefix = "!";
 
